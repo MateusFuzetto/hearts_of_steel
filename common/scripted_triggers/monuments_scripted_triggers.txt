@@ -222,7 +222,10 @@ monument_build_trigger = {
 		OWNER = {
 			custom_trigger_tooltip = {
 				tooltip = TUR_ATATURK_HAS_DIED
-				has_global_flag = ataturk_died
+				OR = {
+					has_idea = TUR_legacy_of_ataturk_fulfilled
+					has_idea = TUR_legacy_of_ataturk_preserved
+				}
 				NOT = { has_country_leader = { name = "Mustafa Kemal Atatürk" ruling_only = yes } }
 			}
 		}
