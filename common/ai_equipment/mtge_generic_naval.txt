@@ -803,7 +803,8 @@ mtge_cruiser_carrier = {
 					any_of = { ship_cfii_mid_deck_space ship_light_battery ship_medium_battery ship_anti_air }
 					upgrade > current
 				}	
-				mid_3_custom_slot = ship_cfii_main_deck_space
+				mid_3_custom_slot = ship_cfii_main_deck_space {
+					
 				}	
 				rear_1_custom_slot = {
 					any_of = { ship_cfiii_rear_deck_space ship_light_battery ship_medium_battery ship_anti_air ship_mine_layer ship_depth_charge }
@@ -882,7 +883,8 @@ mtge_cruiser_carrier = {
 					any_of = { ship_cfii_mid_deck_space ship_light_battery ship_medium_battery ship_anti_air }
 					upgrade > current
 				}	
-				mid_3_custom_slot = ship_cfii_main_deck_space
+				mid_3_custom_slot = ship_cfii_main_deck_space {
+
 				}
 				mid_4_custom_slot = {
 					any_of = { ship_seaplane_tender ship_light_battery ship_secondaries ship_anti_air ship_fuel_tank }

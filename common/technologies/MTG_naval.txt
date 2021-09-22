@@ -1509,13 +1509,7 @@ technologies = {
 
 		start_year = 1922
 
-		convoy_retreat_speed = 0.1
-
-		convoy = {
-			reliability = 0.06
-			surface_visibility = 0.1			
-			max_strength = 0.05
-		}
+		convoy_retreat_speed = 0.20
 
 		enable_equipments = {
 	
