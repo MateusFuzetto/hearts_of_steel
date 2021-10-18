@@ -2,7 +2,7 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_idea_categories"
 		texturefile = "gfx/interface/idea_categories.dds"
-		noOfFrames = 11
+		noOfFrames = 9
 	}
 #slots
 	spriteType = {
