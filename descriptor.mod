@@ -9,3 +9,4 @@ tags={
 }
 name="Hearts of Steel"
 supported_version="1.10.8"
+remote_file_id="2609022861"
